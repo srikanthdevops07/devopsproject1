@@ -1,0 +1,18 @@
+git clone url
+ 
+git add .
+
+git commit -m "file created"
+
+git push origin master
+
+username 
+
+pasword >> goto settings in github
+		devoloper settings
+		generate a new token
+		copy and paste in password section
+
+git status
+
+git revert commitid      (to delete the changes)
